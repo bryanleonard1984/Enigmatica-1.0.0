@@ -1,0 +1,93 @@
+//Item
+
+item.emerald_gem.name=Emerald Gem
+item.gem_of_enchantment.name=Gem of Enchantment
+item.bronze_ingot.name=Bronze Ingot
+item.copper_ingot.name=Copper Ingot
+item.glowing_ingot.name=Glowing Ingot
+item.infused_mithril_ingot.name=Infused Mithril Ingot
+item.mithril_ingot.name=Mithril Ingot
+item.steel_ingot.name=Steel Ingot
+item.stone_ingot.name=Stone Ingot
+item.stone_mixture.name=Stone Mixture
+item.andesite_powder.name=Andesite Powder
+item.diorite_powder.name=Diorite Powder
+item.granite_powder.name=Granite Powder
+item.stone_powder.name=Stone Powder
+
+//Swords
+
+item.copper_sword.name=Copper Sword
+item.bronze_sword.name=Bronze Sword
+item.steel_sword.name=Steel Sword
+item.bedrock_sword.name=Bedrock Sword
+item.goldenrock_sword.name=Goldenrock Sword
+item.emeraldrock_sword.name=Emeraldrock Sword
+item.mithril_sword.name=Mithril Sword
+item.infused_mithril_sword.name=Infused Mithril Sword
+
+//Pickaxes
+
+item.copper_pickaxe.name=Copper Pickaxe
+item.bronze_pickaxe.name=Bronze Pickaxe
+item.steel_pickaxe.name=Steel Pickaxe
+item.bedrock_pickaxe.name=Bedrock Pickaxe
+item.goldenrock_pickaxe.name=Goldenrock Pickaxe
+item.emeraldrock_pickaxe.name=Emeraldrock Pickaxe
+item.mithril_pickaxe.name=Mithril Pickaxe
+item.infused_mithril_pickaxe.name=Infused Mithril Pickaxe
+
+//Axes
+
+item.copper_axe.name=Copper Axe
+item.bronze_axe.name=Bronze Axe
+item.steel_axe.name=Steel Axe
+item.bedrock_axe.name=Bedrock Axe
+item.goldenrock_axe.name=Goldenrock Axe
+item.emeraldrock_axe.name=Emeraldrock Axe
+item.mithril_axe.name=Mithril Axe
+item.infused_mithril_axe.name=Infused Mithril Axe
+
+//Shovels
+
+item.copper_shovel.name=Copper Shovel
+item.bronze_shovel.name=Bronze Shovel
+item.steel_shovel.name=Steel Shovel
+item.bedrock_shovel.name=Bedrock Shovel
+item.goldenrock_shovel.name=Goldenrock Shovel
+item.emeraldrock_shovel.name=Emeraldrock Shovel
+item.mithril_shovel.name=Mithril Shovel
+item.infused_mithril_shovel.name=Infused Mithril Shovel
+
+//Hoes
+
+item.copper_hoe.name=Copper Hoe
+item.bronze_hoe.name=Bronze Hoe
+item.steel_hoe.name=Steel Hoe
+item.bedrock_hoe.name=Bedrock Hoe
+item.goldenrock_hoe.name=Goldenrock Hoe
+item.emeraldrock_hoe.name=Emeraldrock Hoe
+item.mithril_hoe.name=Mithril Hoe
+item.infused_mithril_hoe.name=Infused Mithril Hoe
+
+//Blocks
+
+tile.ore_copper.name=Copper Ore
+tile.ore_copper_dense.name=Dense Copper Ore
+tile.ore_bronze.name=Bronze Ore
+tile.ore_bronze_dense.name=Dense Bronze Ore
+tile.ore_mithril.name=Mithril Ore
+tile.ore_mithril_dense.name=Dense Mithril Ore
+tile.cobblestone_compressed.name=Compressed Cobblestone
+tile.andesite_compressed.name=Compressed Andesite
+tile.andesite_smooth_compressed.name=Compressed Polished Andesite
+tile.bedrock_smooth.name=Smooth Bedrock
+tile.diorite_compressed.name=Compressed Diorite
+tile.diorite_smooth_compressed.name=Compressed Polished Diorite
+tile.granite_compressed.name=Compressed Granite
+tile.granite_smooth_compressed.name=Compressed Polished Granite
+tile.luminescent_rock.name=Luminescent Rock
+tile.obsidian_compressed.name=Compressed Obsidian
+tile.obsidian_smooth.name=Smooth Obsidian
+tile.stone_compressed.name=Compressed Stone
+tile.pedestal.name=Pedestal
