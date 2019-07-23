@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PP",
+        "PP"
+    ],
+    
+    "key":
+    {
+        "P": {"item": "enigmatica:granite_powder"}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:stone",
+        "data": 1
+    }
+}

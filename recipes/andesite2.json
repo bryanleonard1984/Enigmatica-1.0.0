@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "enigmatica:andesite_compressed"
+        }
+    ],
+    
+    "result":
+    {
+        "item": "minecraft:stone",
+        "data": 5,
+        "count": 9
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "enigmatica:cobblestone_compressed"
+        }
+    ],
+    
+    "result":
+    {
+        "item": "minecraft:cobblestone",
+        "count": 9
+    }
+}

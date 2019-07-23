@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "enigmatica:obsidian_compressed"
+        }
+    ],
+    
+    "result":
+    {
+        "item": "minecraft:obsidian",
+        "count": 9
+    }
+}

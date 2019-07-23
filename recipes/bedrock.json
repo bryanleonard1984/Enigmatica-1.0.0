@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CDC",
+        "ASA",
+        "CDC"
+    ],
+    
+    "key":
+    {
+        "C": {"item": "enigmatica:stone_compressed"},
+        "D": {"item": "enigmatica:diorite_smooth_compressed"},
+        "A": {"item": "enigmatica:andesite_smooth_compressed"},
+        "S": {"item": "enigmatica:obsidian_smooth"}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:bedrock"
+    }
+}

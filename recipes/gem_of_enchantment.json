@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GBG",
+        "BDB",
+        "GBG"
+    ],
+    
+    "key":
+    {
+        "B": {"item": "minecraft:gold_block"},
+        "D": {"item": "minecraft:diamond_block"},
+        "G": {"item": "enigmatica:granite_smooth_compressed"}
+    },
+    
+    "result":
+    {
+        "item": "enigmatica:gem_of_enchantment"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M  ",
+        "WMW",
+        "M M"
+    ],
+    
+    "key":
+    {
+        "M": {"item": "minecraft:diamond"},
+        "W": {"item": "minecraft:string"}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:diamond_horse_armor"
+    }
+}

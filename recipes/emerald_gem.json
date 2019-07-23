@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DBD",
+        "BGB",
+        "DBD"
+    ],
+    
+    "key":
+    {
+        "B": {"item": "minecraft:emerald_block"},
+        "D": {"item": "minecraft:emerald"},
+        "G": {"item": "enigmatica:granite_smooth_compressed"}
+    },
+    
+    "result":
+    {
+        "item": "enigmatica:emerald_gem"
+    }
+}

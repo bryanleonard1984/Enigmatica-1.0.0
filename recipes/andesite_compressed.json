@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CCC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C": {"item": "minecraft:stone",
+              "data": 5
+        }
+    },
+    
+    "result":
+    {
+        "item": "enigmatica:andesite_compressed"
+    }
+}
